@@ -13,22 +13,47 @@ const projects = [
     liveUrl: "https://food-delivery-frontend-beta-six.vercel.app/",
     githubUrl: "https://github.com/HalimatIge/Food-Delivery-Frontend",
   },
-  {
-    title: "SaaS Analytics Dashboard",
-    description:
-      "Modern dashboard with data visualization, user management, and subscription handling.",
-    tech: ["React", "Node.js", "PostgreSQL", "Chart.js"],
-    liveUrl: "#",
-    githubUrl: "#",
-  },
-  {
-    title: "E-commerce Store",
-    description:
-      "Complete online shopping experience with cart, checkout, and inventory management.",
-    tech: ["Next.js", "Tailwind", "MongoDB", "PayPal"],
-    liveUrl: "#",
-    githubUrl: "#",
-  },
+  // {
+  //   title: "TailorSync - Fashion Business Management",
+  //   description:
+  //     "Full-stack SaaS platform for fashion designers and tailors to manage clients, body measurements, orders, and sales with AI-powered size recommendations and real-time messaging.",
+  //   tech: [
+  //     "Next.js 14",
+  //     "TypeScript",
+  //     "TailwindCSS",
+  //     "Node.js",
+  //     "Express",
+  //     "MongoDB",
+  //     "Socket.io",
+  //     "JWT Auth",
+  //   ],
+  //   liveUrl: "https://tailorsync.vercel.app",
+  //   githubUrl: "https://github.com/yourusername/tailorsync",
+  //   features: [
+  //     "Client Management & Body Measurements",
+  //     "AI Body Type Detection & Size Recommendations",
+  //     "Real-time Client Communication",
+  //     "Order & Project Tracking",
+  //     "Sales & Invoice Management",
+  //     "Ready-to-Wear E-commerce",
+  //   ],
+  // },
+  // {
+  //   title: "SaaS Analytics Dashboard",
+  //   description:
+  //     "Modern dashboard with data visualization, user management, and subscription handling.",
+  //   tech: ["React", "Node.js", "PostgreSQL", "Chart.js"],
+  //   liveUrl: "#",
+  //   githubUrl: "#",
+  // },
+  // {
+  //   title: "E-commerce Store",
+  //   description:
+  //     "Complete online shopping experience with cart, checkout, and inventory management.",
+  //   tech: ["Next.js", "Tailwind", "MongoDB", "PayPal"],
+  //   liveUrl: "#",
+  //   githubUrl: "#",
+  // },
 ];
 
 export default function Projects() {
