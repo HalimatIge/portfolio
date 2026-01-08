@@ -13,6 +13,14 @@ const projects = [
     liveUrl: "https://food-delivery-frontend-beta-six.vercel.app/",
     githubUrl: "https://github.com/HalimatIge/Food-Delivery-Frontend",
   },
+  {
+    title: "Task Management",
+    description:
+      "Modern task management application with priority levels, status tracking, filtering, and search functionality for efficient productivity.",
+    tech: ["React", "Tailwind CSS", "Lucide Icons"],
+    liveUrl: "https://task-management-steel-tau.vercel.app/",
+    githubUrl: "https://github.com/HalimatIge/Task-management.git",
+  },
   // {
   //   title: "TailorSync - Fashion Business Management",
   //   description:
