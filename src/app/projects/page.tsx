@@ -6,6 +6,14 @@ import OrganicShapes from "@/components/OrganicShapes";
 
 const projects = [
   {
+    title: "PN Africa",
+    description:
+      "A digital platform connecting young Africans with mentorship, learning opportunities, and career development programs.",
+    tech: ["Next.js", "TypeScript", "Tailwind", "shadcn/ui"],
+    liveUrl: "https://pnafrica.com",
+    githubUrl: "https://github.com/PN-Africa/pna2-frontend",
+  },
+  {
     title: "Food Delivery Platform",
     description:
       "Full-stack food delivery application with real-time order tracking, payment processing, and restaurant management system.",
@@ -54,14 +62,15 @@ const projects = [
   //   liveUrl: "#",
   //   githubUrl: "#",
   // },
-  // {
-  //   title: "E-commerce Store",
-  //   description:
-  //     "Complete online shopping experience with cart, checkout, and inventory management.",
-  //   tech: ["Next.js", "Tailwind", "MongoDB", "PayPal"],
-  //   liveUrl: "#",
-  //   githubUrl: "#",
-  // },
+
+  {
+    title: "Provera AI",
+    description:
+      "A transaction risk analysis platform that helps analysts identify suspicious transaction patterns, review risk indicators, and make informed decisions through a centralized workspace.",
+    tech: ["Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui"],
+    liveUrl: "#",
+    githubUrl: "#",
+  },
 ];
 
 export default function Projects() {
